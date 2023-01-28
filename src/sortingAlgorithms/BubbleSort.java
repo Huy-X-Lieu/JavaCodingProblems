@@ -2,8 +2,6 @@ package sortingAlgorithms;
 
 public class BubbleSort {
     public static void sort(int[] arr) {
-        // TODO implement bubble sort algorithm
-
         //PSUEDO CODE:
         // for(stopIndex = array's length; stopindex >= 1; stopIndex--)
         //-- for(i = 0; i < stopIndex; i++)

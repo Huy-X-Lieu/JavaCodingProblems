@@ -1,7 +1,5 @@
 package sortingAlgorithms;
 
-import java.util.Arrays;
-
 public class SelectionSort {
     public static void sort(int[] arr) {
         // PSUEDO CODE:
