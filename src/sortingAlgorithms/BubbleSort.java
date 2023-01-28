@@ -1,10 +1,8 @@
-package sortingAlgorithsms;
+package sortingAlgorithms;
 
 public class BubbleSort {
     public static void sort(int[] arr) {
-        // TODO implement bubble sort algorithsm
-        // move the biggest number to the end of the array in every loop
-        // until the array is sorted
+        // TODO implement bubble sort algorithm
 
         //PSUEDO CODE:
         // for(stopIndex = array's length; stopindex >= 1; stopIndex--)
