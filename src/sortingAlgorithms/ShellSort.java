@@ -1,7 +1,5 @@
 package sortingAlgorithms;
 
-import java.util.Arrays;
-
 public class ShellSort {
     public static void sortWithInsertionSortStyle(int[] arr){
         if(arr == null || arr.length == 0 || arr.length == 1)
