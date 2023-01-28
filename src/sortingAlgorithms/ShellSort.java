@@ -20,7 +20,6 @@ public class ShellSort {
 
                 arr[leftMostIndex]= currentValue;
             }
-            System.out.println(Arrays.toString(arr));
         }
     }
 
